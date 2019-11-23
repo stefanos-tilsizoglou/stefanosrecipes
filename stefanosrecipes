@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body {
+            background-color: rgb(205, 230, 12);
+        }
+        
+        .describe {
+            background-color: rgb(39, 240, 206);
+        }
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>Stefanos's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#keto-fried-chicken">Keto Fried Chicken</a></li>
+            <li><a href="#speedy-spiced-prawn-soup">Speedy spiced prawn soup</a></li>
+            <li><a href="#easy-classic-lasagne">Easy classic lasagne</a></li>
+        </ol>
+        
+        <h2 id="keto-fried-chicken">Keto Fried Chicken</h2>
+        <ul>
+            <li>Time: 1 HOUR 15 MINS</li>
+            <li>Serves: 6 - 8 SERVINGS</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Skin-on chicken breasts</td>
+                    <td>6 pieces (about 4 lbs.)</td>
+                </tr>
+                <tr>
+                    <td>Large eggs</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Heavy cream</td>
+                    <td>1/2 c.</td>
+                </tr>
+                <tr>
+                    <td>Salt and Freshly ground black pepper</td>
+                    <td>1 tsp.</td>
+                </tr>
+                <tr>
+                    <td>Almond flour</td>
+                    <td>3/4 c.</td>
+                </tr>
+                <tr>
+                    <td>Finely crushed pork rinds</td>
+                    <td>1 1/2 c.</td>
+                </tr>
+                <tr>
+                    <td>Freshly grated Parmesan</td>
+                    <td>1/2 c.</td>
+                </tr>
+                <tr>
+                    <td>Garlic powder</td>
+                    <td>1 tsp.</td>
+                </tr>
+                <tr>
+                    <td>Paprika</td>
+                    <td>1/2 tsp.</td>
+                </tr>
+                <tr>
+                    <td>Mayonnaise</td>
+                    <td>1/2 c.</td>
+                </tr>
+                <tr>
+                    <td>Hot sauce</td>
+                    <td>1 1/2 tsp.</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p class="describe"><strong>Step 1:</strong> Preheat oven to 400° and line a large baking sheet with parchment paper. Pat chicken dry with paper towels and season with salt and pepper.
+</p>
+        <p class="describe"><strong>Step 2:</strong> In a shallow bowl whisk together eggs and heavy cream. In another shallow bowl, combine almond flour, pork rinds, Parmesan, garlic powder, and paprika. Season with salt and pepper.
+</p>
+        <p class="describe"><strong>Step 3:</strong> Working one at a time, dip chicken in egg mixture and then in almond flour mixture, pressing to coat. Place chicken on prepared baking sheet.
+</p>
+        <p class="describe"><strong>Step 4:</strong> Bake until chicken is golden and internal temperature reaches 165°, about 45 minutes.
+</p>
+        <p class="describe"><strong>Step 5:</strong> Meanwhile make dipping sauce: In a medium bowl, combine mayonnaise and hot sauce. Add more hot sauce depending on preferred spiciness level. 
+</p>
+        <p class="describe"><strong>Step 6:</strong> Serve chicken warm with dipping sauce. 
+</p>
+    <p><em>Source: <a href="https://www.delish.com/cooking/nutrition/a29537911/keto-fried-chicken-recipe/">Keto Fried Chicken
+</a></em></p>
+
+    <h2 id="speedy-spiced-prawn-soup">Speedy spiced prawn soup</h2>
+        <ul>
+            <li>Time: 20 MINUTES</li>
+            <li>Serves: 4 SERVINGS</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Small frozen cooked peeled prawns</td>
+                    <td>250 g </td>
+                </tr>
+                <tr>
+                    <td>Basmati rice</td>
+                    <td>150 g </td>
+                </tr>
+                <tr>
+                    <td>Spring onions</td>
+                    <td>8 </td>
+                </tr>
+                <tr>
+                    <td>Heaped tablespoons korma curry paste</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Tin of light coconut milk</td>
+                    <td>1 x 400 ml </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p class="describe"><strong>Step 1:</strong> Place the prawns in a bowl of cold water so they start to defrost.
+</p>
+        <p class="describe"><strong>Step 2:</strong> Meanwhile, dry fry and toast the rice for 3 minutes in a large shallow casserole pan on a high heat, stirring regularly, while you trim and finely slice the spring onions.
+</p>
+        <p class="describe"><strong>Step 3:</strong> Add 1 tablespoon of olive oil, the spring onions and korma paste to the pan. Stir for 2 minutes, then pour in the coconut milk and 2½ tins’ worth of water. Boil for 12 minutes, stirring everything occasionally.
+</p>
+        <p class="describe"><strong>Step 4:</strong> With 6 minutes to go, drain the prawns, finely chop and stir into the soup.
+</p>
+        <p class="describe"><strong>Step 5:</strong> When the rice is cooked through and the soup is your desired consistency, taste, season to utter perfection with sea salt and black pepper, and dish up.
+</p>
+        
+    <p><em>Source: <a href="https://www.jamieoliver.com/recipes/seafood-recipes/speedy-spiced-prawn-soup/">Speedy spiced prawn soup
+</a></em></p>
+
+    <h2 id="easy-classic-lasagne">Easy classic lasagne</h2>
+        <ul>
+            <li>Time: 1 HOUR 15 MINS</li>
+            <li>Serves: 4 - 6</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Olive oil</td>
+                    <td>1 tbsp </td>
+                </tr>
+                <tr>
+                    <td>Smoked streaky bacon</td>
+                    <td>2 rashers</td>
+                </tr>
+                <tr>
+                    <td>Onion , finely chopped</td>
+                    <td>1 </td>
+                </tr>
+                <tr>
+                    <td>Celery , finely chopped</td>
+                    <td>1 stick</td>
+                </tr>
+                <tr>
+                    <td>Carrot , grated</td>
+                    <td>1 medium </td>
+                </tr>
+                <tr>
+                    <td>Garlic cloves, finely chopped</td>
+                    <td>2 </td>
+                </tr>
+                <tr>
+                    <td>Beef mince</td>
+                    <td>500g </td>
+                </tr>
+                <tr>
+                    <td>Tomato purée</td>
+                    <td>1 tbsp</td>
+                </tr>
+                <tr>
+                    <td>Chopped tomatoes</td>
+                    <td>2 x 400g cans </td>
+                </tr>
+                <tr>
+                    <td>Clear honey</td>
+                    <td>1 tbsp </td>
+                </tr>
+                <tr>
+                    <td>Fresh egg lasagne sheets</td>
+                    <td>500g pack </td>
+                </tr>
+                <tr>
+                    <td>Crème fraîche</td>
+                    <td>400ml </td>
+                </tr>
+                <tr>
+                    <td>Ball mozzarella, roughly torn</td>
+                    <td>125g  </td>
+                </tr>
+                <tr>
+                    <td>Freshly grated parmesan</td>
+                    <td>50g </td>
+                </tr>
+                <tr>
+                    <td>Basil leaves, torn (optional)</td>
+                    <td>large handful  </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p class="describe"><strong>Step 1:</strong> Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.
+</p>
+        <p class="describe"><strong>Step 2:</strong> Add the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over.
+</p>
+        <p class="describe"><strong>Step 3:</strong> Stir in the tomato purée and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water to rinse out any tomatoes left in the can, and add to the pan. Add the honey and season to taste. Simmer for 20 mins.
+</p>
+        <p class="describe"><strong>Step 4:</strong> Heat oven to 200C/180C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the roasting tin or casserole dish, spreading the sauce all over the base. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit, then repeat with more sauce and another layer of pasta. Repeat with a further 2 layers of sauce and pasta, finishing with a layer of pasta.
+</p>
+        <p class="describe"><strong>Step 5:</strong> Put the crème fraîche in a bowl and mix with 2 tbsp water to loosen it and make a smooth pourable sauce. Pour this over the top of the pasta, then top with the mozzarella. Sprinkle Parmesan over the top and bake for 25–30 mins until golden and bubbling. Serve scattered with basil, if you like.
+</p>
+        
+    <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/classic-lasagne">Easy classic lasagne
+</a></em></p>
+    </body>
+</html>
